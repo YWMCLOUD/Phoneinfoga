@@ -146,9 +146,9 @@ uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko
 uagent.append("Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0")
 
 number = '' 
-localNumber = ''+1 7865251035
+localNumber = ''+1 (786)5251035
 internationalNumber = '' # International numberformat
-numberCountryCode = '' # Dial code; e.g:"+33"
+numberCountryCode = '' # Dial code; e.g:"+1
 numberCountry = '' # United States 
 
 googleAbuseToken = ''
